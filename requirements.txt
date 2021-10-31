@@ -1,0 +1,3 @@
+opencv-python
+
+# Datetime , Time are already installed. No need to install them.
